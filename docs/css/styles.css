@@ -1,3 +1,6 @@
-body {
+h1{
+    border: 1px white;
+    margin: 10px;
+    padding: 20px;
     background-color: aquamarine;
 }
